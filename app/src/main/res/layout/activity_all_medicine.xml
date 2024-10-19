@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    tools:context=".activity.AllMedicineActivity">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:orientation="vertical">
+
+
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/_10sdp">
+
+            <ImageView
+                android:id="@+id/imgBack"
+                android:layout_width="@dimen/_28sdp"
+                android:layout_height="@dimen/_28sdp"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/white_btn"
+                android:backgroundTint="#80FFFFFF"
+                android:padding="@dimen/_5sdp"
+                android:src="@drawable/baseline_arrow_back_24"
+                app:tint="@color/black" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/metropolis_semibold"
+                android:gravity="center_horizontal"
+                android:padding="@dimen/_5sdp"
+                android:text="@string/All_Medicine"
+                android:textSize="@dimen/_15ssp" />
+
+        </RelativeLayout>
+
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/txtActive"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:background="@drawable/gray_btn"
+                android:fontFamily="@font/metropolis_medium"
+                android:gravity="center"
+                android:text="@string/Active_Medicines"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_13ssp" />
+
+            <TextView
+                android:id="@+id/txtDeactive"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:layout_weight="1"
+                android:background="@drawable/gray_btn"
+                android:fontFamily="@font/metropolis_semibold"
+                android:gravity="center"
+                android:text="@string/Deactive_Medicines"
+                android:textSize="@dimen/_13ssp" />
+
+
+        </LinearLayout>
+
+        <FrameLayout
+            android:id="@+id/fragment_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

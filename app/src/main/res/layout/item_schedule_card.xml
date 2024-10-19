@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/_103sdp"
+    android:layout_height="@dimen/_30sdp"
+    android:layout_margin="@dimen/_5sdp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginTop="8dp"
+    app:cardBackgroundColor="#3BFF007F"
+    app:cardCornerRadius="@dimen/_5sdp"
+    app:cardElevation="0dp">
+
+    <TextView
+        android:layout_gravity="center_vertical"
+        android:gravity="center_horizontal"
+        android:id="@+id/scheduleName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/metropolis_medium"
+        android:textColor="@color/lig_pink" />
+
+</androidx.cardview.widget.CardView>

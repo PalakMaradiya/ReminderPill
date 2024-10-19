@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:orientation="vertical">
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_100sdp" />
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:src="@drawable/illustration" />
+
+
+
+            <TextView
+                android:id="@+id/txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="@font/metropolis_bold"
+                android:text="@string/Your_Virtual_Nurse"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_19ssp" />
+
+            <TextView
+                android:id="@+id/txtInfo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:fontFamily="@font/metropolis_regular"
+                android:gravity="center"
+                android:text="@string/it_s_very_difficult_to_take_care_of_ownself_find_your_virtual_nurse"
+                android:textColor="#66000000"
+                android:textSize="@dimen/_11ssp" />
+
+
+
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_30sdp" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

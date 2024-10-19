@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">ReminderPill</string>
+    <string name="Skip">Skip</string>
+    <string name="Share">Share</string>
+    <string name="instruction">Instruction</string>
+    <string name="today">today</string>
+    <string name="Save_Schedule">Save Schedule</string>
+    <string name="Edit_Schedule">Edit Schedule</string>
+    <string name="inform">Chills, fever, flushing, itching, shortness \nof breath, sweating, rash, or headache</string>
+    <string name="Times">2 Times</string>
+    <string name="Deactive_Medicines">Deactive Medicines</string>
+    <string name="Active_Medicines">Active Medicines</string>
+    <string name="Medicine_Reminder">Medicine Reminder</string>
+
+    <string name="Stoke">21 Stoke</string>
+    <string name="stoke_20">20 Stoke</string>
+    <string name="stoke_18">18 Stoke</string>
+    <string name="Alert_Tone">Alert Tone - 1</string>
+    <string name="Notification_Sound">Notification Sound</string>
+    <string name="HH_MM_AA">HH : MM : AA</string>
+    <string name="Time_Formate">Time Formate</string>
+    <string name="DD_MM_YY">DD / MM / YY</string>
+    <string name="Date_Formate">Date Formate</string>
+    <string name="It_s_time_to_take_a_medicine.">It\'s time to take a medicine.</string>
+    <string name="Notification_Message">Notification Message</string>
+    <string name="Upgrade_Pro_Version">Upgrade Pro Version</string>
+    <string name="About_us">About us</string>
+    <string name="Other">Other</string>
+    <string name="Help_Discussion">Help &amp; Discussion</string>
+    <string name="Medicines">Medicines</string>
+    <string name="Settings">Settings</string>
+    <string name="Synk">Synk</string>
+    <string name="Rate_us">Rate us</string>
+    <string name="Verify">Verify</string>
+    <string name="Tracking">Tracking</string>
+    <string name="Refill">Refill</string>
+    <string name="All_Medicine">All Medicine</string>
+    <string name="Intakes">Intakes</string>
+    <string name="Refill_time">Refill time</string>
+    <string name="PillMinder">PillMinder</string>
+    <string name="Remove">Remove</string>
+    <string name="decrapstion">Chills, fever, flushing, itching, shortness
+        of breath, sweating, rash, or headacheChills, fever,
+        flushing, itching, shortness of breath, sweating, rash,
+        headacheChills, fever, flushing, itching, shortness of
+        breath, sweating, rash, or headache</string>
+    <string name="Resent">Resent</string>
+    <string name="Type">Type</string>
+    <string name="Daily">Daily</string>
+    <string name="If_you_didnt_receive_a_code">If you didn\'t receive a code!</string>
+    <string name="Enter_the_OTP_your_received_to">Enter the OTP your received to</string>
+    <string name="OTP_Verification">OTP Verification</string>
+    <string name="Enter_Number">Enter Number</string>
+    <string name="Frequency">Frequency</string>
+    <string name="A_4_Digit_OTP_will_be_send_via_SMS_to_verify_your_mobile_number">A- 4 Digit OTP will be send via SMS\nto verify your mobile number.</string>
+    <string name="Enter_Phone_Number">Enter Phone Number</string>
+    <string name="Duration">Duration</string>
+    <string name="Days">15 Days</string>
+    <string name="After_launch">After launch</string>
+    <string name="Sent_OTP">Sent OTP</string>
+    <string name="Early_Morning">Early Morning</string>
+    <string name="Time_Schedule">Time &amp; Schedule</string>
+    <string name="Sign_Up">Sign Up</string>
+    <string name="Log_Out">Log Out</string>
+    <string name="Add_Remindar">Add Remindar</string>
+    <string name="number">+91 12345 67890</string>
+    <string name="New_Remindar">New Remindar</string>
+    <string name="Amphotericin_B">Amphotericin B</string>
+    <string name="Medicine_Name">Medicine Name</string>
+    <string name="PillMindergmailcom">PillMinder@gmail.com</string>
+    <string name="My_Account">My Account</string>
+    <string name="Add_Medicines">Add Medicines</string>
+    <string name="Email_Address">Email Address</string>
+    <string name="Confirm_Password">Confirm Password</string>
+    <string name="No_Medicine_Avaiable">No Medicine Avaiable</string>
+    <string name="There_are_not_available_any_medicine_Tap_to_add_button_to_add_medicines.">There are not available \nany medicine.Tap to add button to\n add medicines.</string>
+    <string name="Phone_Number">Phone Number</string>
+    <string name="Already_have_an_account">Already have an account?</string>
+    <string name="Let_s_Get_Started">Let\'s Get Started</string>
+    <string name="create_an_account_to_save_all_reminder_and_access_them_anywhere">create an account to save all reminder\n and access them anywhere.</string>
+    <string name="Let_s_Go">Let\'s Go</string>
+    <string name="Continue_with_Mobile_Number">Continue with Mobile Number</string>
+    <string name="Continue_with_Facebook">Continue with Facebook</string>
+    <string name="Dont_have_an_account">Don\'t have an account?</string>
+    <string name="Log_in">Log in</string>
+    <string name="Continue_with_Google">Continue with Google</string>
+    <string name="Password">Password</string>
+    <string name="Your_Virtual_Nurse">Your Virtual Nurse</string>
+    <string name="Welcome_to_PillMinder">Welcome to PillMinder</string>
+    <string name="PillMinder_User">PillMinder User</string>
+    <string name="Log_in_to_save_all_reminder_and_access_them_anywhere">
+        Log in to save all reminder\n and access them anywhere.</string>
+    <string name="it_s_very_difficult_to_take_care_of_ownself_find_your_virtual_nurse">
+        it\'s very difficult to take care of ownself ,\n find your virtual nurse</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
